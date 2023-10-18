@@ -10466,7 +10466,7 @@ var Dc = { exports: {} }
 })(Dc)
 var zp = Dc.exports
 const _p = Ss(zp),
-  Ep = "/assets/resume/assets/pdf-75bddf89.svg"
+  Ep = "/assets/pdf-75bddf89.svg"
 function Mp() {
   const e = Mr.useRef()
   return L.jsxs("div", {
