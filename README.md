@@ -21,12 +21,13 @@ I'm a passionate frontend web developer with a strong foundation in HTML, CSS, a
 🚀 **My Projects**
 
 - [Panflix 🎥](#) - A movie streaming website.
-- [Okay-Mart 🛒](#) - An e-commerce platform.
-- [Pandahub 📝](#) - A blogging platform.
+- [Okay-Mart 🛒](https://okaymart-8c627.web.app/) - An e-commerce platform.
+- [portfolio 📝](https://okayinterrupt.web.app/) - a portfolio platform
+- [Pandahub 📝](https://pandahubtest.web.app/) - A blogging platform.
 
 💬 **Let's Connect**
 
-I'm always up for a chat about web development and coding. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/nnamdi-dike/) or [Twitter](https://twitter.com/codabytez).
+I'm always up for a chat about web development and coding. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/nnamdi-dike/) or [Twitter](https://x.com/OKAYINTERRUPT).
 
 🌐 **Check out my website**
 
